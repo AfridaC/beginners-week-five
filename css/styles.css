@@ -14,3 +14,13 @@ body {
   font-style: italic;
   font-family: cursive;
 }
+.modal-body {
+  font-size: 6em;
+  font-style: italic;
+  color: Blue;
+}
+.Modal {
+  font-size: 1em;
+  color: inherit;
+
+}
